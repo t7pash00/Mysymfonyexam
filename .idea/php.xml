@@ -27,6 +27,31 @@
       <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/templating" />
       <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/symfonyApp/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/nikic/php-parser" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />

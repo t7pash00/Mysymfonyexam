@@ -4,7 +4,13 @@
     <list default="true" id="8f0bf1f2-818c-43fc-aee0-c35d5f996229" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/symfonyExam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfonyExam.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfonyApp/src/Controller/TestController.php" beforeDir="false" afterPath="$PROJECT_DIR$/symfonyApp/src/Controller/TestController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfonyApp/.env.dist" beforeDir="false" afterPath="$PROJECT_DIR$/symfonyApp/.env.dist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfonyApp/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/symfonyApp/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfonyApp/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfonyApp/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfonyApp/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/symfonyApp/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfonyApp/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/symfonyApp/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfonyApp/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfonyApp/symfony.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +31,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="env" value="1" />
           <entry key="php" value="1" />
           <entry key="twig" value="1" />
           <entry key="yaml" value="1" />
@@ -33,6 +40,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PHP" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Twig" value="1" />
           <entry key="YAML" value="1" />
         </counts>
@@ -40,17 +48,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="28" />
+          <entry key="env" value="33" />
           <entry key="php" value="110" />
           <entry key="twig" value="22" />
-          <entry key="yaml" value="22" />
+          <entry key="yaml" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PHP" value="110" />
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="PLAIN_TEXT" value="61" />
           <entry key="Twig" value="22" />
-          <entry key="YAML" value="22" />
+          <entry key="YAML" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -76,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/symfonyApp/templates/hello.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="34">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,8 +97,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/symfonyApp/config/routes.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="119">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/symfonyApp/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -102,9 +120,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/symfonyApp/config/routes.yaml" />
         <option value="$PROJECT_DIR$/symfonyApp/src/Controller/TestController.php" />
         <option value="$PROJECT_DIR$/symfonyApp/templates/hello.html.twig" />
+        <option value="$PROJECT_DIR$/symfonyApp/config/routes.yaml" />
+        <option value="$PROJECT_DIR$/symfonyApp/.env" />
       </list>
     </option>
   </component>
@@ -144,6 +163,31 @@
       <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/templating" />
       <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/symfonyApp/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/symfonyApp/vendor/nikic/php-parser" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -174,6 +218,12 @@
               <item name="symfonyExam" type="462c0819:PsiDirectoryNode" />
               <item name="symfonyApp" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="symfonyExam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfonyExam" type="462c0819:PsiDirectoryNode" />
+              <item name="symfonyApp" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="symfonyExam" type="b2602c69:ProjectViewProjectNode" />
@@ -228,12 +278,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539209516465</updated>
-      <workItem from="1539209517856" duration="1984000" />
+      <workItem from="1539209517856" duration="3327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1984000" />
+    <option name="totallyTimeSpent" value="3327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -267,13 +317,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/symfonyApp/config/routes.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/symfonyApp/src/Controller/TestController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -286,8 +329,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/symfonyApp/templates/hello.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfonyApp/config/routes.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/symfonyApp/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

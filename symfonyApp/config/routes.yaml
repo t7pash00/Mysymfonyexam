@@ -5,5 +5,5 @@
 
 # the "app_lucky_number" route name is not important yet
 test:
-  path: /hello
+  path: /shiva
   controller: App\Controller\TestController::hello
