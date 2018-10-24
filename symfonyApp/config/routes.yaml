@@ -7,3 +7,7 @@
 test:
   path: /shiva
   controller: App\Controller\TestController::hello
+
+todo
+  path: /todo
+  controller: App\Controller\TodoController::view
